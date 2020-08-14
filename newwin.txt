@@ -1,0 +1,3 @@
+newwin
+New Mac
+new 3
